@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Dowland, a software engineer and high school student living in Greater New York. I specialize in systems programming and backend / business logic
-engineering primarily in Rust.
-I have a passion for peer-to-peer networking, and have worked on several bleeding-edge distributed projects over the last four years.
+I'm Dowland, a full-stack software engineer and high school student living in Greater New York. I specialize in systems programming and
+backend / business logic development primarily in Rust and Go.
+I have a passion for peer-to-peer networking, and have worked on several bleeding-edge distributed projects over the last few years.
 At the moment, I'm working on a decentralized and socially responsible social media network called [Swaply](https://github.com/swap-ly).
 
 If you have any questions regarding my work, please consult any one of the following handles:
